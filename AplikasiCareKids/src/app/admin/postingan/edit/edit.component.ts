@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { AngularEditorConfig } from '@kolkov/angular-editor';
-import { FormGroup, FormControl, Validators } from '@angular/forms';
+import { FormGroup, FormControl, Validators,ReactiveFormsModule } from '@angular/forms';
 
 //services
 import { AdminService } from '../../admin.service';

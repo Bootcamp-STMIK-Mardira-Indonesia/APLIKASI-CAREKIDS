@@ -7,7 +7,7 @@ import { NgxPaginationModule } from "ngx-pagination";
 import { PostinganRoutingModule } from "./postingan-routing.module";
 
 //import
-import { FormsModule, ReactiveFormsModule } from "@angular/forms";
+import { FormsModule, ReactiveFormsModule, } from "@angular/forms";
 import { HttpClientModule } from "@angular/common/http";
 import { AngularEditorModule } from "@kolkov/angular-editor";
 
